@@ -62,11 +62,11 @@ Strong fundamentals | Familiarity in AI tooling
 
 <br/>
 
-[![skillicons](https://skillicons.dev/icons?i=js,ts,react,jest,html,css&theme=dark&perline=6)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,react,jest&theme=dark&perline=6)](https://skillicons.dev)
 
 <br/>
 
-*Early — building toward product-ready.*
+*Progress over perfection by showing up daily.*
 
 </div>
 
@@ -85,13 +85,13 @@ Strong fundamentals | Familiarity in AI tooling
 <td width="260" valign="top" align="center">
 
 **[reps](https://github.com/iamspeedyalex/reps)**
-<br/>Daily katas + CSS targets — where the habit lives.
+<br/>Grinding out my daily katas & CSS targets.
 
 </td>
 <td width="260" valign="top" align="center">
 
 **[dev-log](https://github.com/iamspeedyalex/dev-log)**
-<br/>Progress, notes, and reflection over time.
+<br/>Logging progress, notes, and reflection over time.
 
 </td>
 </tr>
@@ -107,7 +107,9 @@ Strong fundamentals | Familiarity in AI tooling
 
 <br/>
 
-[X &nbsp;↗](https://x.com/thedevalex) &emsp; [LinkedIn &nbsp;↗](https://linkedin.com/in/iamspeedyalex) &emsp; [Torc &nbsp;↗](https://platform.torc.dev/#/r/9div9MW6/cp)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logoColor=white)](https://x.com/thedevalex) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamspeedyalex) &nbsp;
+[![Torc](https://img.shields.io/badge/Torc-0d1117?style=flat&logoColor=white)](https://platform.torc.dev/#/r/9div9MW6/cp)
 
 <br/>
 
