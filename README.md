@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 [![Codewars](https://www.codewars.com/users/developeralex/badges/large)](https://www.codewars.com/users/developeralex)
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:1a1f2e&height=220&section=header&text=The%20Dev%20Alex&fontSize=58&fontColor=e6edf3&fontAlign=72&fontAlignY=45&desc=designing%20with%20intention.%20building%20with%20purpose.&descAlign=72&descAlignY=65&descSize=14&descColor=6e7681" width="100%" />
-
 </div>
 
 <br/>
@@ -35,23 +33,20 @@ Here are some ideas to get you started:
 
 <table border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### `/ now`
-
-Building reps every day — Codewars katas, CSSBattle targets.
-Going deep with **Interface Craft** and **Faster.dev**.
-Product builder in progress. Applying late spring 2026.
+Scrimba | Udemy | Codewars | CSSBattle | Interface Craft
+<br>Faster.dev | Torc Ambassador & Mentee
+<br>..........................................................................................................................................
 
 </td>
-<td width="5%"></td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ### `/ building toward`
-
-Scalable architecture · TypeScript patterns  
-Git collaboration · Code review  
-Shipping products that feel considered
+Strong fundamentals | Familiarity in AI tooling
+<br>Team collaboration | Product building
+<br>..........................................................................................................................................
 
 </td>
 </tr>
@@ -83,26 +78,26 @@ Shipping products that feel considered
 
 ### `/ work`
 
-</div>
-
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-[**reps**](https://github.com/iamspeedyalex/reps)
 <br/>
-<sub>Daily katas + CSS targets — where the habit lives.</sub>
+
+<table border="0" cellpadding="32" cellspacing="16" align="center">
+<tr>
+<td width="260" valign="top" align="center">
+
+**[reps](https://github.com/iamspeedyalex/reps)**
+<br/>Daily katas + CSS targets — where the habit lives.
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="260" valign="top" align="center">
 
-[**dev-log**](https://github.com/iamspeedyalex/dev-log)
-<br/>
-<sub>Progress, notes, and reflection over time.</sub>
+**[dev-log](https://github.com/iamspeedyalex/dev-log)**
+<br/>Progress, notes, and reflection over time.
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -112,7 +107,7 @@ Shipping products that feel considered
 
 <br/>
 
-[X &nbsp;↗](https://x.com/thedevalex) &emsp; [LinkedIn &nbsp;↗](https://linkedin.com/in/iamspeedyalex)
+[X &nbsp;↗](https://x.com/thedevalex) &emsp; [LinkedIn &nbsp;↗](https://linkedin.com/in/iamspeedyalex) &emsp; [Torc &nbsp;↗](https://platform.torc.dev/#/r/9div9MW6/cp)
 
 <br/>
 
