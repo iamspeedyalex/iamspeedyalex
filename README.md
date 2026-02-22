@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### `/ now`
 Scrimba | Udemy | Codewars | CSSBattle | Interface Craft
 <br>Faster.dev | Torc Ambassador & Mentee
-<br>........................................................................................................................................
+<br>....................................................................................................................................
 
 </td>
 <td width="50%" valign="top">
@@ -46,7 +46,7 @@ Scrimba | Udemy | Codewars | CSSBattle | Interface Craft
 ### `/ building toward`
 Strong fundamentals | Familiarity in AI tooling
 <br>Team collaboration | Product building
-<br>........................................................................................................................................
+<br>....................................................................................................................................
 
 </td>
 </tr>
