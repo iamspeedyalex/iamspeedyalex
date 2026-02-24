@@ -1,4 +1,4 @@
-## Hi! Thanks for stopping by 👋 <img src="https://komarev.com/ghpvc/?username=iamspeedyalex&style=plastic&color=ECB613&label=VISITOR #" />
+## Hi! Thanks for stopping by 👋 <img src="https://komarev.com/ghpvc/?username=iamspeedyalex&style=plastic&color=ECB613&label=VISITOR_" />
 
 [![Codewars](https://www.codewars.com/users/developeralex/badges/large)](https://www.codewars.com/users/developeralex)
 
