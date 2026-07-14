@@ -21,16 +21,14 @@
 <td width="50%" valign="top">
 
 ### `/ now`
-Scrimba | Udemy | Codewars | CSSBattle | Interface Craft
-<br>Faster.dev | Torc Ambassador & Mentee
+LEARNING & BUILDING LOCAL-ONLY AI KANBAN
 <br>..................................................................................................................................
 
 </td>
 <td width="50%" valign="top">
 
 ### `/ building toward`
-Strong fundamentals | Familiarity in AI tooling
-<br>Team collaboration | Product building
+CAREER CHANGE INTO TECH & BUILDING MORE
 <br>..................................................................................................................................
 
 </td>
