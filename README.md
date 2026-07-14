@@ -45,7 +45,7 @@ CAREER CHANGE INTO TECH & BUILDING MORE
 
 <br/>
 
-[![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,react,jest&theme=dark&perline=6)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark&perline=6)](https://skillicons.dev)
 
 <br/>
 
